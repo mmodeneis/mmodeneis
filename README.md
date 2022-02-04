@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmodeneis
-- 👀 I’m interested in ...nothing
-- Personal Repository
+- 👀 Devops Culture Lover
+- Bringing my Bitbucket projects to GitHub
 
 <!---
 mmodeneis/mmodeneis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
